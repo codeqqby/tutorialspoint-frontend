@@ -1,0 +1,1 @@
+# ECMAScript 函数
